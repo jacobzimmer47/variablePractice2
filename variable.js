@@ -1,3 +1,6 @@
 var name = "Jake"
 var town = "Denver"
 var state = "CO"
+var age = "22"
+var time = "5"
+var money ="0"
